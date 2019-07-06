@@ -1,0 +1,23 @@
+.whole{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background: lightblue;
+    align-content: center;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 
+}
+.second{
+background: repeating-linear-gradient(rgb(42, 175, 97,0.993),rgb(0,204,255));
+margin-right: 20px;
+}
+.first{ 
+word-spacing: 2px;
+margin-left: 20px;
+}
+.oky{
+    position: sticky;
+    top:5px;
+    bottom: 5px;
+}
